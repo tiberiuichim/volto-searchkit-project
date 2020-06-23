@@ -1,6 +1,9 @@
 {
     "compilerOptions": {
         "paths": {
+            "volto-searchkit": [
+                "addons/volto-searchkit/src"
+            ]
         },
         "baseUrl": "src"
     }

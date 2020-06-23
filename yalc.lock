@@ -2,7 +2,7 @@
   "version": "v1",
   "packages": {
     "@plone/volto": {
-      "signature": "09ac17f28c00a3076a30c75a0b433c7c",
+      "signature": "eb0dbda484edd35deeb47d6ed17ff632",
       "file": true
     }
   }
